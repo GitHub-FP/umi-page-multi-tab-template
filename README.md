@@ -1,6 +1,6 @@
 ## Dom元素不一致了
 
-![1606621031708](C:\Users\fengpan\AppData\Roaming\Typora\typora-user-images\1606621031708.png)
+![1606621031708](C:\Users\fengpan\Desktop\1606621031708.png)
 
 ## Getting Started
 
